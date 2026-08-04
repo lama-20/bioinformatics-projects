@@ -56,7 +56,6 @@ Variant calling workflow using **Snippy** and **bcftools** for detecting SNPs an
 - ✅ Python-based Data Analysis
 - ✅ Data Visualization of Variant Statistics
 
-🔗 [View Repository](#) *(replace with your repo link)*
 
 ---
 
@@ -70,7 +69,6 @@ A bioinformatics application for analyzing DNA sequences from FASTA files.
 - 🧬 DNA → Protein Translation
 - 📄 FASTA Parsing using Biopython
 
-🔗 [View Repository](#) *(replace with your repo link)*
 
 ---
 
