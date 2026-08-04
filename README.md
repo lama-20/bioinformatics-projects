@@ -70,24 +70,5 @@ A bioinformatics application for analyzing DNA sequences from FASTA files.
 
 ---
 
-# 📊 GitHub Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=lama-20&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lama-20&layout=compact&theme=tokyonight)
-
----
-
-# 🔥 GitHub Streak
-
-![](https://streak-stats.demolab.com?user=lama-20&theme=tokyonight)
-
----
-
-# 🏆 Achievements
-
-![](https://github-profile-trophy.vercel.app/?username=lama-20&theme=tokyonight&margin-w=15)
-
----
 
 
