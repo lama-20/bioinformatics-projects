@@ -72,19 +72,31 @@ A bioinformatics application for analyzing DNA sequences from FASTA files.
 
 ---
 
+### 🩺 DiaCheck — Diabetes Risk Prediction App
+`Machine Learning` `Data Science` `Deployment`
+
+A machine learning web application that predicts diabetes risk based on patient medical data (glucose, BMI, insulin, age, etc.), built on the Pima Indians Diabetes dataset.
+
+**Highlights**
+- 📊 Exploratory Data Analysis (EDA)
+- 🌲 Random Forest Classification Model
+- 🚀 Deployed as an interactive web app using Streamlit
+- 🎨 Custom UI design with real-time prediction
+
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lama-20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lama-20&theme=tokyonight&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lama-20&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
 
 </div>
 
-
----
 
 ## 🌐 Connect with Me
 
