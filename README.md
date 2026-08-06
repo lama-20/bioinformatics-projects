@@ -22,8 +22,7 @@
 - 🧬 Interested in Genomics, Computational Biology, and AI applications in life sciences
 - 🐍 Python developer focused on biological data analysis
 - 🌱 Currently deepening my skills in advanced bioinformatics workflows
-- 💬 Ask me about DNA sequence analysis, variant calling, or Python for bio-data
-- 📫 How to reach me: **your.email@example.com** *(update with your real contact)*
+
 
 ---
 
